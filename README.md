@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Meu nome é André Felipe, tenho 19 anos e sou de São Paulo. Concluí o ensino médio no SESI 400, com o curso técnico em Eletroeletrônica pelo SENAI. Atualmente, estou cursando Engenharia da Computação na Faculdade Engenheiro Salvador Arena. Procuro oportunidade na área do desenvolvimento/análise de dados.
+Meu nome é André Felipe, tenho 19 anos e sou de São Paulo. Concluí o ensino médio no SESI 400, com o curso técnico em Eletroeletrônica pelo SENAI. Atualmente, estou cursando Engenharia da Computação na Faculdade Engenheiro Salvador Arena. Procuro oportunidade na área de desenvolvimento/análise de dados.
 
 <p align="left">
     <a href="https://github.com/andrefelipet3h?tab=repositories&sort=stargazers"">
