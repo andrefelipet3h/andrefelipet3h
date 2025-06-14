@@ -15,15 +15,8 @@ Meu nome é André Felipe, tenho 19 anos e sou de São Paulo. Concluí o ensino 
 <img 
   alt="Número de Projetos" 
   title="Projetos no GitHub"
-  src="https://img.shields.io/badge/Projetos-2-E1AD0E?style=for-the-badge&labelColor=C79600&logo=github"
+  src="https://img.shields.io/badge/Projetos-4-E1AD0E?style=for-the-badge&labelColor=C79600&logo=github"
 />
-    <a href="https://github.com/andrefeipet3h?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/andrefelipet3h?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
   <a href="https://www.linkedin.com/in/andré-felipe-835115222/" target="_blank">
   <img 
     alt="Conecte-se no LinkedIn" 
